@@ -1,0 +1,14 @@
+{
+    "name": "EarthSync Prototype",
+    "short_name": "EarthSync",
+    "theme_color": "#4CAF50",
+    "background_color": "#FFFFFF",
+    "icons": [
+      {
+        "src": "icons/Icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
