@@ -1,0 +1,7 @@
+cd build/web
+git init
+git remote add origin https://github.com/<username>/earthsync-demo.git
+git add .
+git commit -m "Initial deploy"
+git branch -M gh-pages
+git push -u origin gh-pages
